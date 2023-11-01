@@ -1,0 +1,28 @@
+{
+  "name": "stackblitz-starters-4egwql",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@reduxjs/toolkit": "^1.9.7",
+    "@types/react": ">=16.14.8",
+    "@types/react-dom": "^16.8 || ^17.0 || ^18.0",
+    "bootstrap": "^5.3.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.9.1",
+    "react-dom": "18.2.0",
+    "react-native": ">=0.59",
+    "react-redux": "^7.2.1 || ^8.0.2",
+    "react-router-dom": "^6.17.0",
+    "redux": "^4 || ^5.0.0-beta.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
